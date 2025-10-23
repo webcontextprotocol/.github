@@ -59,6 +59,7 @@ Now AI agents know exactly:
 - ✅ What semantic region they're in
 - ✅ Where updates will appear
 
+
 ## Core Vocabulary
 
 ### Actions (What it does)
@@ -127,29 +128,13 @@ Add the registry beacon to track adoption (optional):
 
 This sends a daily ping (domain + version only, no user data) to help track protocol adoption.
 
-## Contributing
-
-We welcome contributions of all kinds! Whether you want to:
-- Fix bugs or improve documentation
-- Propose new actions or effects
-- Build tooling (validators, analyzers, browser extensions)
-- Share implementation examples
-
-
-Have questions? Join the discussion in our [community forum](https://github.com/orgs/webcontextprotocol/discussions).
-
-## Community
-
-- **GitHub Discussions:** [Ask questions and share ideas](https://github.com/orgs/webcontextprotocol/discussions)
-- **Twitter:** Follow [@osazi_](https://twitter.com/sheevammmm) for updates
-
-
 ## License
 
 The Web Context Protocol specification is released under CC0 (public domain). Anyone can implement, extend, or modify it without restriction.
 
 ## About
 
-The Web Context Protocol is an open source project created by [Umbrella Mode](https://umbrellamode.com) and open to contributions from the entire community.
+The Model Context Protocol is an open source project run by [Umbrella Mode, Inc.](https://umbrellamode.com) and open to contributions from the entire community.
+
 ---
 
