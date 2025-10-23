@@ -335,7 +335,7 @@ The Web Context Protocol specification is released under CC0. Anyone can impleme
 
 ## About
 
-Built by [Umbrella Mode](https://umbrellamode.com) (David Osemwegie, [@osazi)](https://x.com/osazi_))
+Built by [Umbrella Mode](https://umbrellamode.com) (David Osemwegie, [@osazi_)](https://x.com/osazi_))
 
 Open to contributions from the entire community. This is a **standard**, not a company product.
 
