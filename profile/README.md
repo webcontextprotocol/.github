@@ -118,16 +118,6 @@ Now AI agents know exactly:
 - ✅ This is the primary action
 - ✅ Can predict behavior
 
-## Adoption
-
-Add the registry beacon to track adoption (optional):
-
-```html
-<meta name="wcp-registry" content="https://registry.wcp.dev/ping">
-```
-
-This sends a daily ping (domain + version only, no user data) to help track protocol adoption.
-
 ## License
 
 The Web Context Protocol specification is released under CC0 (public domain). Anyone can implement, extend, or modify it without restriction.
