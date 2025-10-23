@@ -166,7 +166,6 @@ This isn't about making AI smarter—it's about **giving developers control over
 - Three identical-looking buttons
 - No semantic meaning
 - Must guess based on text alone
-- 40% chance of clicking the wrong one
 
 ### ✅ With WCP (developer control)
 ```html
