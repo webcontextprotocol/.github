@@ -2,7 +2,7 @@
 
 A lightweight HTML annotation standard for AI agents to reliably understand and interact with web pages.
 
-[Documentation](https://wcp.dev) | [Specification](https://github.com/webcontextprotocol/spec) | [Discussions](https://github.com/orgs/webcontextprotocol/discussions)
+[Documentation](https://wcp.dev)
 
 The Web Context Protocol (WCP) is an open standard that enables AI agents and LLM-powered browsers to reliably understand and interact with web pages. Whether you're building an AI browser, enhancing an autonomous agent, or creating AI-powered workflows, WCP provides a standardized way to tell agents exactly what actions do and how they behave.
 
@@ -58,20 +58,6 @@ Now AI agents know exactly:
 - ✅ Whether clicking will navigate away or update in-place
 - ✅ What semantic region they're in
 - ✅ Where updates will appear
-
-## Resources
-
-- 📚 Read the [Specification](https://github.com/webcontextprotocol/spec/blob/main/SPEC.md) for full protocol details
-- 💻 Browse [Examples](https://github.com/webcontextprotocol/spec/tree/main/examples) for real-world implementations
-- 📊 View [Adoption Stats](https://registry.wcp.dev/stats) (coming soon)
-- 💬 Join the [Discussion](https://github.com/orgs/webcontextprotocol/discussions)
-
-## Repositories
-
-- [specification](https://github.com/webcontextprotocol/spec) - Protocol specification and documentation
-- [examples](https://github.com/webcontextprotocol/examples) - Real-world implementation examples
-- [registry](https://github.com/webcontextprotocol/registry) - Adoption tracking (coming soon)
-- [validator](https://github.com/webcontextprotocol/validator) - WCP syntax validator (coming soon)
 
 ## Core Vocabulary
 
